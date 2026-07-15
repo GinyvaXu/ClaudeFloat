@@ -47,3 +47,13 @@ Desktop.ini
 # Temp
 *.tmp
 ~$*
+
+# Tutorials & docs (not for distribution)
+*教程.md
+*教程*.md
+GitHub发布*.md
+
+# Review reports
+审查报告*.md
+审查报告*.docx
+UI设计审查报告*
