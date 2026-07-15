@@ -1,0 +1,49 @@
+# VBS launcher (may contain hardcoded paths)
+launcher.vbs
+**/launcher.vbs
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment secrets
+.env
+
+# PyInstaller
+build/
+build_debug/
+build_setup/
+dist/
+*.spec
+*.spec.bak
+*.toc
+*.pyz
+*.pkg
+*.zip
+localpycs/
+xref-*.html
+warn-*.txt
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temp
+*.tmp
+~$*

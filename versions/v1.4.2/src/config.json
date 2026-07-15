@@ -1,0 +1,15 @@
+{
+  "window_x": 745,
+  "window_y": 273,
+  "auto_start": false,
+  "launch_mode": "normal",
+  "widget_size": 52,
+  "opacity": 0.88,
+  "working_directory": "",
+  "snap_enabled": true,
+  "snap_edge": "right",
+  "snap_hidden": true,
+  "hide_delay_ms": 800,
+  "theme": "light",
+  "cleanup_on_quit": false
+}
